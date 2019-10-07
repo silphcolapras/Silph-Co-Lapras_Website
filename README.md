@@ -1,6 +1,6 @@
 # Hacking Historical Texts
 
-![Title Image](assets/intro-image.png)
+![Enter the Temple of Sobek](assets/Temple-of-Sobek-and-Haroeris.jpg)
 
 **[View the Course Workbook Website Here](https://theportus.github.io/hacking-historical-texts/)**
 

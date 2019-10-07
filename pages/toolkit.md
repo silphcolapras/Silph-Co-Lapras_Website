@@ -13,14 +13,14 @@
 
 ---
 
-Below is a large list of tools arranged by topic if you want to explore either familar tools or go beyond the scope of the course. You are free to incorporate any tool or resource for your projects. Links for online help, popular DH discussion spots, professional associations, journals, blogs, and applied historical tutorials all can help you forge your own path and grow as a scholar long after this class is over.
+Below is a large list of tools arranged by topic if you want to explore the tools of digital historians. Links for online help, popular DH discussion spots, professional associations, journals, blogs, and applied historical tutorials all can help you forge your own path and grow as a scholar. I include these tools (with very minimal changes from what my instructor David Thomas crafted) because *partially* I want to have a convenient source for them all and *partially* to show off all the fun tools I utilize. (As always, thank you Dave, you input and template are the only reason this exists.)
 
 ## Online Tools
 
 * [Overview Docs](https://www.overviewdocs.com/) - Text Analysis
 * [Voyant](https://voyant-tools.org/) - Text Analysis
 * [Palladio](http://hdlab.stanford.edu/palladio/#/) - Data Visualization
-* [Raw](http://app.raw.densitydesign.org/) - Data Visualiization
+* [Raw](http://app.raw.densitydesign.org/) - Data Visualization
 * [Fusion Tables](http://tables.googlelabs.com/) - Data Visualization
 * [Breve](http://breve.designhumanities.org/) - Data Visualization/Cleaning
 
