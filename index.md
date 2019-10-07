@@ -2,12 +2,10 @@
 
 ![Title Image]({{site.baseurl}}/assets/intro-image.png)
 
-## Instructor and Author
+## Author
 
-[David J. Thomas](mailto:dave.a.base@gmail.com), [thePortus.com](http://thePortus.com)<br />
-Instructor of Ancient History and Digital Humanities<br />
-Department of History<br />
-[University of South Florida](https://github.com/usf-portal)
+[Mikey "Silph Co Lapras" Hall](mailto:silphcolapras@gmail.com)<br />
+Leftist Moron on the Internet, also a historian/archaeologist by trade<br />
 
 ---
 
