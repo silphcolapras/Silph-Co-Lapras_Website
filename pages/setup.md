@@ -1,4 +1,12 @@
-# WIP PAGE will stay, but unsure what it'll be
+# Contact Page and other Social Media
+
+
+### The following links can be used to get in touch with me:
+
+1. [Twitter](www.twitter.com/SilphCoLapras)
+2. [Instagram](https://www.instagram.com/silphcolapras/) ![@silphcolapras]({{site.baseurl}}/assets/silphcolapras_nametag.png)
+3. [Facebook](https://www.facebook.com/SilphCoLapras/) Note that the FB page is rarely updated, Twitter DM is a better method to reach me.
+4. [Email](mailto:silphcolapras@gmail.com) This is asking for trouble, likely.
 
 <figure>
     <p>
