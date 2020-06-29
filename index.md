@@ -6,7 +6,7 @@
 
 [Mikey "Silph Co Lapras" Hall](mailto:silphcolapras@gmail.com)<br />
 Leftist Moron on the Internet, also a historian/archaeologist by trade<br />
-[Twitter](www.twitter.com/SilphCoLapras)
+[Twitter](https://www.twitter.com/SilphCoLapras/)
 [Instagram](https://www.instagram.com/silphcolapras/)
 
 ---
@@ -16,7 +16,6 @@ Leftist Moron on the Internet, also a historian/archaeologist by trade<br />
         <a href="{{site.baseurl}}/index.html">Home</a> |
         <a href="{{site.baseurl}}/pages/setup.html">Setup</a> |
         <a href="{{site.baseurl}}/pages/Video List.html">Video Catalogue</a> |
-        <a href="{{site.baseurl}}/pages/files.html">Files</a> |
         <a href="{{site.baseurl}}/pages/project.html">Project</a> |
         <a href="{{site.baseurl}}/pages/toolkit.html">Toolkit</a>
     </p>
